@@ -14,7 +14,7 @@ This project uses a Naive Bayes classifier trained on CDC Diabetes Health Data t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/diabetes-prediction.git
+   git clone https://github.com/sidkrs/diabetes-prediction.git
    ```
 2. Navigate to the project directory:
    ```
